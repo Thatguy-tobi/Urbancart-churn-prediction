@@ -177,9 +177,3 @@ The notebooks look for the CSV at `data/milestone-2-customer-churn.csv` first, t
 their own folder, so the structure above works unmodified. `random_state=42` throughout,
 so every figure in this README reproduces exactly.
 
-## A note on the two notebooks
-
-`UrbanCart_Milestone2_Explained.ipynb` contains **identical code and identical results**
-to `UrbanCart_Milestone2.ipynb`. Only the commentary differs — it is rewritten for
-readers without a machine learning background. Either one can be run; neither depends on
-the other.
