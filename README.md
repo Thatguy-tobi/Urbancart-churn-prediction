@@ -149,8 +149,7 @@ urbancart-churn-prediction/
 ├── data/
 │   └── milestone-2-customer-churn.csv
 ├── notebooks/
-│   ├── UrbanCart_Milestone2.ipynb            # full analysis, outputs included
-│   └── UrbanCart_Milestone2_Explained.ipynb  # identical results, plain-English commentary
+│   └── UrbanCart_Milestone2.ipynb            # full analysis, outputs included
 ├── src/
 │   └── milestone2_customer_churn.py          # the same pipeline as a runnable script
 ├── reports/
